@@ -52,11 +52,16 @@ body {
 /* TASK 2 */
 
 .task-2 .container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 /* TASK 3 */
 
 .task-3 .container {
+  display: flex;
+  justify-content: space-evenly;
 }
 
 /* TASK 4 */
